@@ -1,8 +1,8 @@
 # Ansible-Terraform
 Creating a VPC, Subnet, Security Group and an Ubuntu Instance and Installing nginx server on it using Ansible Playbook
 
-Configure the aws using "aws configure" command and add Access key and corresponding secret access keys
-then run the following commands
+Configure the aws using "$aws configure" command and add Access key and corresponding secret access keys
+then run the following commands on the instance.
 
 terraform init - to initialize and download the plugins.
 
